@@ -1,23 +1,46 @@
-# InteractiveStoryGame (GWC2024)
+# Hi, Girls Who Code! :crown: :computer: :keyboard: :magic_wand: 
 
+Welcome to the Interactive Story Game project! This is a fun and engaging project where you can create and play an interactive story game. You will make choices that affect the outcome of the story, and you can also add your own ending to make it more exciting. In this project, we will simulate a real-world scenario where everyone plays a different role on their respective tech team to achieve a common goal. Don't spend too much time deciding on roles because once your part is done, you should still be helping the team. Here are the roles:
 
-Welcome to the Interactive Story Game project! This is a fun and engaging project where you can create and play an interactive story game. You will make choices that affect the outcome of the story, and you can also add your own branches to the story to make it more exciting.
+### Roles and Descriptions
+
+1. **Software Engineers (at least 2):**
+   - **Description:** The Software Engineers write the code that makes the interactive story work. They take the designs from the UX/UI Designer and turn them into a functional game. The engineers should be willing to share their screen in the breakout room.
+    - **Skills:** Programming, teamwork, problem-solving.
+
+2. **Quality Assurance (QA) Tester:**
+   - **Description:** The QA Tester ensures the interactive story game works correctly by testing it for bugs and issues. They play through the game multiple times to find and report any problems, ensuring a smooth and enjoyable experience for users. they also provide support for the developers through research, code support, etc.
+   - **Skills:** Attention to detail, patience, problem-solving.
+
+3. **Project Manager:**
+   - **Description:** The Project Manager is responsible for planning, organizing, and managing the project to ensure it is completed on time. They coordinate with all team members, keep track of progress and time, and help solve any issues that arise.
+   - **Skills:** Organization, communication, problem-solving.
+
+4. **UX/UI Designer:**
+   - **Description:** The UX/UI Designer focuses on the user experience and interface design. They create visual designs and prototypes to make sure the interactive story is engaging and easy to navigate. Feel free to use images, audio, GIFs, and more to visually tell your story.
+   - **Skills:** Creativity, design thinking, empathy.
+
+5. **Writer:**
+   - **Description:** Writer is responsible for creating and organizing the storyline of the interactive game. They ensure that the narrative is engaging and coherent.
+    - **Skills:** Writing, creativity, organization.
+
+**NOTE: The Software Engineers and Quality Assurance Tester will be on the code pathway. The UX/UI Designer and Writer will be on the no-code pathway. The Project Manager will be involved in both pathways.*
 
 ## Project Overview
 
 In this project, you will:
-- Learn basic Python programming concepts (code pathway).
-- Use GitHub for version control and collaboration (code pathway).
+- Learn basic Python programming concepts.
+- Use GitHub for version control and collaboration.
 - Create an interactive story with multiple choices and outcomes.
 - Share your project with others.
-- Alternatively, use Figma to design your interactive story visually without any code (no-code pathway).
+- Use Figma to design your interactive story visually without any code.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following:
 ### For Code Pathway:
 - [Python](https://www.python.org/downloads/) (version 3.6 or later)
-- [Git](https://git-scm.com/downloads)
+- [Git](https://git-scm.com/downloads) - open it and execute Git Bash 
 - A GitHub account (sign up [here](https://github.com/))
 
 ### For No-Code Pathway:
@@ -96,7 +119,6 @@ Follow these steps to set up the project using Figma:
    - Use the Figma project you created to design each scene of your interactive story.
 
 2. **Add Interactivity:**
-   - Use Figma's prototype features to add interactivity to your story.
    - Connect frames with clickable links to simulate choices and outcomes.
 
 3. **Share Your Design:**
@@ -164,12 +186,6 @@ You can contribute to this project by designing more scenes, adding visuals, and
 
 1. **Duplicate the Figma Project:**
    - Duplicate the existing Figma project to make your changes.
-
-2. **Make Your Changes:**
-   - Add new frames, update visuals, and improve the story flow.
-
-3. **Share Your Design:**
-   - Share the updated Figma project link with others.
 
 ## Example Code
 
