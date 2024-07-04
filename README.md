@@ -92,10 +92,7 @@ Follow these steps to set up the project using Figma:
 1. **Create a Figma Account:**
    - Go to the [Figma website](https://www.figma.com/) and sign up for a free account.
 
-2. **Create a New Figma Project:**
-   - Click on the "New File" button to create a new project.
-
-3. **Design Your Interactive Story Template:**
+2. **Design Your Interactive Story Template:**
    - Use Figma's tools to design your interactive story template.
    - Create frames for each part of your story.
    - Use shapes, text, and images to visualize each scene and choice in your story.
@@ -136,22 +133,6 @@ Enter 'left' or 'right': left
 You encounter a friendly dragon. He gives you treasure. You win!
 ```
 
-### No-Code Pathway
-
-Here's an example of how to design your story:
-
-1. **Frame 1:**
-   - Text: "You are in a dark forest. Do you go left or right?"
-   - Buttons: "Left", "Right"
-
-2. **Frame 2 (Left Choice):**
-   - Text: "You encounter a friendly dragon. He gives you treasure. You win!"
-   - Button: "Restart"
-
-3. **Frame 3 (Right Choice):**
-   - Text: "You fall into a pit. Game over!"
-   - Button: "Restart"
-
 ## Contributing to the Project
 
 ### Code Pathway
@@ -179,13 +160,6 @@ You can contribute to this project by adding more branches to the story, fixing 
 
 5. **Create a Pull Request:**
    Go to the GitHub repository and create a pull request to merge your changes into the main branch.
-
-### No-Code Pathway
-
-You can contribute to this project by designing more scenes, adding visuals, and improving the interactivity. Follow these steps to contribute:
-
-1. **Duplicate the Figma Project:**
-   - Duplicate the existing Figma project to make your changes.
 
 ## Example Code
 
@@ -225,22 +199,6 @@ def restart_game():
 
 start_game()
 ```
-
-### No-Code Pathway
-
-Here is an example of how to design your story in Figma:
-
-1. **Frame 1:**
-   - Text: "You are in a dark forest. Do you go left or right?"
-   - Buttons: "Left", "Right"
-
-2. **Frame 2 (Left Choice):**
-   - Text: "You encounter a friendly dragon. He gives you treasure. You win!"
-   - Button: "Restart"
-
-3. **Frame 3 (Right Choice):**
-   - Text: "You fall into a pit. Game over!"
-   - Button: "Restart"
 
 ## Additional Resources
 
