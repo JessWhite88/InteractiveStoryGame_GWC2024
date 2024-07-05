@@ -24,8 +24,6 @@ Welcome to the Interactive Story Game project! This is a fun and engaging projec
    - **Description:** Writer is responsible for creating and organizing the storyline of the interactive game. They ensure that the narrative is engaging and coherent.
     - **Skills:** Writing, creativity, organization.
 
-**NOTE: The Software Engineers and Quality Assurance Tester will be on the code pathway. The UX/UI Designer and Writer will be on the no-code pathway. The Project Manager will be involved in both pathways.*
-
 ## Project Overview
 
 In this project, you will:
@@ -45,6 +43,8 @@ Before you begin, make sure you have the following:
 
 ### For No-Code Pathway:
 - A [Figma](https://www.figma.com/) account (sign up [here](https://www.figma.com/signup/))
+
+**NOTE: The Software Engineers and Quality Assurance Tester will be on the code pathway. The UX/UI Designer and Writer will be on the no-code pathway. The Project Manager will be involved in both pathways.*
 
 ## Setup Instructions
 
@@ -113,7 +113,8 @@ Follow these steps to set up the project using Figma:
 ### No-Code Pathway
 
 1. **Design the Story:**
-   - Use the Figma project you created to design each scene of your interactive story.
+   - Use the Figma project you created to design each scene of your interactive story. https://www.figma.com/board/A9nZdTAR1VMYQitiqSqNKN/Untitled?node-id=1-1126&t=rLZzCgelRBNGK22u-1 
+   - Find your team's box and edit in there ONLY. You Team Lead can help you, if you get lost.
 
 2. **Add Interactivity:**
    - Connect frames with clickable links to simulate choices and outcomes.
