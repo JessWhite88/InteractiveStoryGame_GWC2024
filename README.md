@@ -40,6 +40,7 @@ Before you begin, make sure you have the following:
 - [Python](https://www.python.org/downloads/) (version 3.6 or later)
 - [Git](https://git-scm.com/downloads) - open it and execute Git Bash 
 - A GitHub account (sign up [here](https://github.com/))
+- Visual Studio Code (Download latest version ([https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)))
 
 ### For No-Code Pathway:
 - A [Figma](https://www.figma.com/) account (sign up [here](https://www.figma.com/signup/))
