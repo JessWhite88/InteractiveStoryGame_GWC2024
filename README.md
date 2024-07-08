@@ -37,10 +37,7 @@ In this project, you will:
 
 Before you begin, make sure you have the following:
 ### For Code Pathway:
-- [Python](https://www.python.org/downloads/) (version 3.6 or later)
-- [Git](https://git-scm.com/downloads) - open it and execute Git Bash 
-- A GitHub account (sign up [here](https://github.com/))
-- Visual Studio Code (Download latest version ([https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)))
+- Access to https://www.online-python.com/ (No signup required)
 
 ### For No-Code Pathway:
 - A [Figma](https://www.figma.com/) account (sign up [here](https://www.figma.com/signup/))
@@ -51,19 +48,12 @@ Before you begin, make sure you have the following:
 
 ### Code Pathway
 
-Follow these steps to set up the project on your local machine:
-
-1. **Clone the Repository:**
-   Open your terminal or command prompt and run the following command:
-   ```sh
-   git clone https://github.com/your-username/interactive-story-game.git
-   ```
-   Replace `your-username` with your GitHub username.
+Follow these steps to set up and work on the project:
 
 2. **Navigate to the Project Directory:**
-   ```sh
-   cd interactive-story-game
-   ```
+   Delete the sample code provided.
+   Refer to the sample code provided (story_game.py) for understanding, assistance, etc.
+   Create your own story and code it into reality!
 
 ### No-Code Pathway
 
@@ -83,9 +73,7 @@ Follow these steps to set up the project using Figma:
 ### Code Pathway
 
 1. **Run the Python Script:**
-   ```sh
-   python story_game.py
-   ```
+  Hit the play button that says "Run".
 
 2. **Follow the Prompts:**
    The game will prompt you with choices. Type your choice and press Enter to proceed.
@@ -113,34 +101,6 @@ You are in a dark forest. Do you go left or right?
 Enter 'left' or 'right': left
 You encounter a friendly dragon. He gives you treasure. You win!
 ```
-
-## Contributing to the Project
-
-### Code Pathway
-
-You can contribute to this project by adding more branches to the story, fixing bugs, or improving the code. Follow these steps to contribute:
-
-1. **Create a Branch:**
-   ```sh
-   git checkout -b new-branch-name
-   ```
-
-2. **Make Your Changes:**
-   Edit the `story_game.py` file to add new branches, fix bugs, or improve the code.
-
-3. **Commit Your Changes:**
-   ```sh
-   git add .
-   git commit -m "Description of your changes"
-   ```
-
-4. **Push Your Changes to GitHub:**
-   ```sh
-   git push origin new-branch-name
-   ```
-
-5. **Create a Pull Request:**
-   Go to the GitHub repository and create a pull request to merge your changes into the main branch.
 
 
 ## Additional Resources
