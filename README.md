@@ -64,27 +64,6 @@ Follow these steps to set up the project on your local machine:
    cd interactive-story-game
    ```
 
-3. **Create a Virtual Environment (optional but recommended):**
-   ```sh
-   python -m venv venv
-   ```
-
-4. **Activate the Virtual Environment:**
-   - On Windows:
-     ```sh
-     venv\Scripts\activate
-     ```
-   - On macOS and Linux:
-     ```sh
-     source venv/bin/activate
-     ```
-
-5. **Install Required Packages (if any):**
-   This project does not require any external packages, but you can install any additional packages if needed using:
-   ```sh
-   pip install package-name
-   ```
-
 ### No-Code Pathway
 
 Follow these steps to set up the project using Figma:
